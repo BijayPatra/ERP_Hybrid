@@ -1,8 +1,6 @@
 package commonFunctions;
 
 public class Test {
-	int a,b;
+	int a=10,b=20;
 	int c=a+b;
-	
-
 }
