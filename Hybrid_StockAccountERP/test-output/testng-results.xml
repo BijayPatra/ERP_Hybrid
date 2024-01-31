@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[DEVIALPANDA    DEVIALPANDA]]>
+    </line>
+    <line>
+      <![CDATA[Stock-000000310    Stock-000000310]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000001178  Supplier-00000001178]]>
+    </line>
+    <line>
+      <![CDATA[Customer-00000001207  Customer-00000001207]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-30T15:39:41 IST" name="Default suite" finished-at="2024-01-30T15:41:01 IST" duration-ms="80307">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T15:39:41 IST" name="Default test" finished-at="2024-01-30T15:41:01 IST" duration-ms="80307">
+      <class name="driverFactory.AppTest">
+        <test-method signature="KickStart()[pri:0, instance:driverFactory.AppTest@272113c4]" started-at="2024-01-30T15:39:41 IST" name="KickStart" finished-at="2024-01-30T15:41:01 IST" duration-ms="80226" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[DEVIALPANDA    DEVIALPANDA]]>
+            </line>
+            <line>
+              <![CDATA[Stock-000000310    Stock-000000310]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000001178  Supplier-00000001178]]>
+            </line>
+            <line>
+              <![CDATA[Customer-00000001207  Customer-00000001207]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- KickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
