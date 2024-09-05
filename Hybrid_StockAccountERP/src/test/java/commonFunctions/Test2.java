@@ -1,6 +1,6 @@
 package commonFunctions;
 
-public class Test {
+public class Test2 {
 	
 	
 	public void demoTest()
